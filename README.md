@@ -4,8 +4,8 @@ In this project, I designed the complete user journey, starting from the welcome
 
 This project was designed using Figma, with the help of plugins such as Unsplash to provide high-quality images and create a more realistic interface.
 
-TASK 2: High-Fidelity UI Design
+UI Design
 https://www.figma.com/design/MgPcOu5YzNY39NJ2AFowFR/Foodly?node-id=0-1&m=dev&t=pS2jOTeYBnEyU0jA-1
 
-TASK 4: Mini Project — Prototype Design
+Prototype Design
 https://www.figma.com/proto/MgPcOu5YzNY39NJ2AFowFR/Foodly?node-id=0-1&t=pS2jOTeYBnEyU0jA-1
